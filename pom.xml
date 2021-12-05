@@ -11,8 +11,8 @@
     <url>https://github.com/HimaJyun/EbiFly</url>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <java.version>16</java.version>
-        <spigot.version>1.17.1-R0.1-SNAPSHOT</spigot.version>
+        <java.version>17</java.version>
+        <spigot.version>1.18-R0.1-SNAPSHOT</spigot.version>
         <relocation.package>jp.jyn.ebifly.lib</relocation.package>
     </properties>
 
